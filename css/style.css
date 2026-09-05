@@ -1234,6 +1234,11 @@ header p {
     resize: none;
 }
 
+.contact-section .email-link{
+    overflow-wrap: anywhere;
+    word-break: break-word;
+}
+
 
 .contact-section .content .main-contact .form-container .form-subscribe label {
     margin-left: .75rem;
