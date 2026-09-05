@@ -1312,9 +1312,9 @@ footer .footer-top .icons .icon:hover {
     }
 }
 
-@media (max-width: 340px) {
+@media (max-width: 361px) {
     :root {
-        font-size: 12px;
+        font-size: 11.5px;
     }
 
     .properties-section .cards .item .image-description .top-desc span {
@@ -1326,6 +1326,11 @@ footer .footer-top .icons .icon:hover {
     :root {
         font-size: 14px;
     }
+}
+
+.mobile-nav .dropdown-menu .row:first-child {
+    margin-left: 0;
+    margin-right: 0;
 }
 
 @media (min-width: 640px) {
@@ -1361,6 +1366,8 @@ footer .footer-top .icons .icon:hover {
     .navbar .mobile-nav {
         display: none !important;
     }
+
+
 }
 
 @media (min-width:1024px) {
