@@ -476,7 +476,7 @@ header p {
     overflow-y: auto;
 }
 
-.navbar .mobile-nav{
+.navbar .mobile-nav {
     max-height: calc(100vh - 80px);
     overflow-y: auto;
 }
